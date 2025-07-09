@@ -1,0 +1,17 @@
+{
+  "name": "ui_automation_using_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
+    "@cypress/webpack-preprocessor": "^6.0.4",
+    "cypress": "^14.5.1"
+  }
+}
